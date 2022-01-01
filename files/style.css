@@ -1,10 +1,10 @@
-html{}body{background-color:#1849A5;background:url("img/BG.jpg");background-size:cover;background-repeat:no-repeat;color:#DDE5EA;font-family:sans-serif;font-size:22px;overflow:hidden;cursor:none;
+html{}body{background-color:#1849A5;background:url("img/BG.jpg");background-size:cover;background-repeat:no-repeat;color:#DDE5EA;font-family:sans-serif;font-size:22px;
 }
 @font-face {font-family:'Icons';font-style:normal;font-weight:900;src: local('Icons'), url(Icons.ttf) format('truetype');
 }
-.Icon{background:url("img/00.png"),linear-gradient(180deg,#002887,#042A87,#001E63);background-size:100% 100%;background-repeat:no-repeat;cursor:none;
+.Icon{background:url("img/00.png"),linear-gradient(180deg,#002887,#042A87,#001E63);background-size:100% 100%;background-repeat:no-repeat;
 }
-.Icon2{background:url("img/01.png"),linear-gradient(180deg,#002887,#042A87,#001E63);background-size:100% 100%;background-repeat:no-repeat;cursor:none;
+.Icon2{background:url("img/01.png"),linear-gradient(180deg,#002887,#042A87,#001E63);background-size:100% 100%;background-repeat:no-repeat;
 }
 #AutoHenInfo{
 position:absolute;bottom:10px;left:15px;font-size:18px;font-weight:bold;display:inline-block;z-index:1;
@@ -204,11 +204,11 @@ animation-name:BottomPopupAni;animation-duration:600ms;animation-fill-mode: forw
 from{bottom:-250px;}to{bottom:0px;}
 }
 #navFix1{border:0px solid #BBCEEF;
-position:fixed;left:3px;right:0;top:0;bottom:0;max-width:100%;max-height:100%;margin:auto;overflow:hidden;width:1px;height:1px;cursor:none;
+position:fixed;left:3px;right:0;top:0;bottom:0;max-width:100%;max-height:100%;margin:auto;overflow:hidden;width:1px;height:1px;
 }
 #navFix2{
-position:fixed;left:0;right:3px;top:0;bottom:0;max-width:100%;max-height:100%;margin:auto;overflow:hidden;width:1px;height:1px;cursor:none;
+position:fixed;left:0;right:3px;top:0;bottom:0;max-width:100%;max-height:100%;margin:auto;overflow:hidden;width:1px;height:1px;
 }
 #navFix3{
-position:fixed;left:0;right:0;top:0;bottom:400px;max-width:100%;max-height:100%;margin:auto;overflow:hidden;width:1200px;height:1px;cursor:none;
+position:fixed;left:0;right:0;top:0;bottom:400px;max-width:100%;max-height:100%;margin:auto;overflow:hidden;width:1200px;height:1px;
 }
