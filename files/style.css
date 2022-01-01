@@ -105,7 +105,7 @@ top:110px;left:-40px;
 width:102.5%;height:420px;
 }
 .MenuPos{transition:left 300ms;
-position:absolute;left:-65px;top:0px;height:170px;
+position:absolute;left:300px;top:70px;height:170px;
 }
 .Box{transition:all 200ms;
 position:relative;top:0px;display:inline-block;vertical-align:top;background-size:100%;
